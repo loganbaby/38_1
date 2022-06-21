@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\38_1.dir/objects.a
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\38_1.dir/objects.a @CMakeFiles\38_1.dir\objects1.rsp
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\38_1.dir/objects.a -Wl,--no-whole-archive -o 38_1.exe -Wl,--out-implib,lib38_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\38_1.dir\linklibs.rsp
